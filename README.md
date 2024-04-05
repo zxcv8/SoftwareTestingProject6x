@@ -1,4 +1,4 @@
-Project #1 - Testcase and Test Plan for https://awesomeqa.com/ui/index.php?route=account/register
+Project #1 - Testcase  for https://awesomeqa.com/ui/index.php?route=account/register
 
 Testcases
 https://drive.google.com/drive/folders/11eAx342NHP1NGiqD_yQMAqfkZkbIjzNR?usp=sharing
